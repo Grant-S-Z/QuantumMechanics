@@ -1,3 +1,5 @@
 # README
 
-Just a qm course contents of thu
+thu的一门量子力学课，忠实记录
+
+>参考书：量子力学教程（第三版）-曾谨言
